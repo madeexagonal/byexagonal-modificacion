@@ -1,11 +1,11 @@
-Re-upload of https://github.com/loxy0dev/RedTiger-Tools.
+Re-upload of https://github.com/madeexagonal/byexagonal-modificacion.
 
 <img align="center" src="Img/RedTiger-Banner.png" width="100%"> 
 
 <h1 align="center">Multi-Tools</h1>
 
 <p align="center">
-   <a href="https://t.me/redtigersupport">Telegram</a> ・ <a href="https://guns.lol/loxy0dev">GunsLol</a> ・ <a href="https://www.trustpilot.com/review/redtiger.shop">Reviews</a>
+   <a href="https://t.me/redtigersupport">Telegram</a> ・ <a href="https://guns.lol/exagonal">GunsLol</a> ・ <a href="https://www.trustpilot.com/review/redtiger.shop">Reviews</a>
 </p>
 
 <p align="center">
