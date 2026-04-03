@@ -189,7 +189,7 @@ Re-upload of https://github.com/madeexagonal/byexagonal-modificacion.
 
 <h1 align="center">Installation</h1>
 
-<a href="https://github.com/Rain798377/exagonal">Dowloads "exagonal.zip" Here</a>
+<a href="https://github.com//exagonal">Dowloads "exagonal.zip" Here</a>
 <p>
   
 ```
@@ -200,7 +200,7 @@ Re-upload of https://github.com/madeexagonal/byexagonal-modificacion.
 Or
 ```
 1 - Open a terminal.
-2 - Write "git clone https://github.com/Rain798377/RedTiger-Tools.git"
+2 - Write "git clone https://github.com/madeexagonal/byexagonal-modificacion"
 3 - Write "cd RedTiger-Tools"
 4 - Write "git pull"
 5 - Write "python Setup.py"
@@ -209,16 +209,5 @@ Or
 </p>
 
 <h1 align="center">Donation</h1>
-
-<p>
-  
-  <strong>Bitcoin Adress:</strong>
-  ``` 
-bc1q94263paqr9umagpqqafk6kc6wvr3ug2dpw5t7x
-  ```
-  <strong>Litecoin Adress:</strong>
-  ```
-LWyHjLVM4YCqwyVFSXJfidYbGuakn5C8rV
-  ```
 
 </p>
