@@ -5,19 +5,19 @@ Re-upload of https://github.com/madeexagonal/byexagonal-modificacion.
 <h1 align="center">Multi-Tools</h1>
 
 <p align="center">
-   <a href="https://t.me/redtigersupport">Telegram</a> ・ <a href="https://guns.lol/exagonal">GunsLol</a> ・ <a href="https://www.trustpilot.com/review/redtiger.shop">Reviews</a>
+   <a href="https://t.me/madeexagonal">Telegram</a> ・ <a href="https://guns.lol/exagonal">GunsLol</a> ・ <a href="">Reviews</a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/v/release/loxy0dev/RedTiger-Tools?label=Version&color=a80505">
-  <img src="https://img.shields.io/github/stars/loxy0dev/RedTiger-tools?style=flat&label=Stars&color=a80505">
-  <img src="https://img.shields.io/github/repo-size/loxy0dev/RedTiger-Tools?label=Size&color=a80505">
-  <img src="https://img.shields.io/github/languages/top/loxy0dev/RedTiger-Tools?color=a80505">
+  <img src="https://img.shields.io/github/v/release/madeexagonal?label=Version&color=a80505">
+  <img src="https://img.shields.io/github/stars/madeexagonal?style=flat&label=Stars&color=a80505">
+  <img src="https://img.shields.io/github/repo-size/madeexagonañ?label=Size&color=a80505">
+  <img src="https://img.shields.io/github/languages/top/madeexagonal?color=a80505">
 </p>
 
 <p>
   
-  - Developed in <strong>Python</strong>, by <a href="https://guns.lol/loxy0dev">Loxy0dev</a><br>
+  - Developed in <strong>Python</strong>, by <a href="https://guns.lol/exagonañ">exagonal</a><br>
   - Tool in <strong>English</strong>.<br>
   - Available on <strong>Windows</strong> and <strong>Linux</strong>.<br>
   - <strong>No malware</strong> or <strong>backdoor</strong>.<br>
@@ -35,7 +35,7 @@ Re-upload of https://github.com/madeexagonal/byexagonal-modificacion.
   - RedTiger Tools has been developed solely for educational purposes.<br>
   - This project has been created with good intentions and is intended for personal use only.<br>
   - By choosing to use RedTiger, you acknowledge and accept full responsibility for any consequences that may result from your actions.<br>
-  - All scripts in the "<a href="https://github.com/loxy0dev/RedTiger-Tools/tree/main/Program/FileDetectedByAntivirus">Program/FileDetectedByAntivirus</a>" folder are <strong>detected by the antivirus</strong> but pose no threat to you. These are <strong>not backdoors or malware</strong>.
+  - All scripts in the "<a href="https://github.com/exagonal/Tools/tree/main/Program/FileDetectedByAntivirus">Program/FileDetectedByAntivirus</a>" folder are <strong>detected by the antivirus</strong> but pose no threat to you. These are <strong>not backdoors or malware</strong>.
 <br><br>
 </p>
 
@@ -189,7 +189,7 @@ Re-upload of https://github.com/madeexagonal/byexagonal-modificacion.
 
 <h1 align="center">Installation</h1>
 
-<a href="https://github.com/Rain798377/RedTiger-Tools.git">Dowloads "RedTiger-Tools.zip" Here</a>
+<a href="https://github.com/Rain798377/exagonal">Dowloads "exagonal.zip" Here</a>
 <p>
   
 ```
